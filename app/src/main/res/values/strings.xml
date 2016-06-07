@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicSample</string>
+
+    <string name="error_failed_request_focus">Error: 无法获得焦点</string>
+    <string name="author">作者：屈淮南</string>
+    <string name="weibo">微博：@你在灬我在</string>
+    <string name="github">Github：quhuainan</string>
+</resources>
